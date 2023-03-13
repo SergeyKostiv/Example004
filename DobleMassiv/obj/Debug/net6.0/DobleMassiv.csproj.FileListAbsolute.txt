@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/bin/Debug/net6.0/DobleMassiv
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/bin/Debug/net6.0/DobleMassiv.deps.json
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/bin/Debug/net6.0/DobleMassiv.runtimeconfig.json
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/bin/Debug/net6.0/DobleMassiv.dll
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/bin/Debug/net6.0/DobleMassiv.pdb
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.dll
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/refint/DobleMassiv.dll
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.pdb
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/DobleMassiv.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/Example004/DobleMassiv/obj/Debug/net6.0/ref/DobleMassiv.dll
