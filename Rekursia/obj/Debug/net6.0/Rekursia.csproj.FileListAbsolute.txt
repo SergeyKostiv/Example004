@@ -1,0 +1,15 @@
+/Users/sergeykostiv/Desktop/Example004/Rekursia/bin/Debug/net6.0/Rekursia
+/Users/sergeykostiv/Desktop/Example004/Rekursia/bin/Debug/net6.0/Rekursia.deps.json
+/Users/sergeykostiv/Desktop/Example004/Rekursia/bin/Debug/net6.0/Rekursia.runtimeconfig.json
+/Users/sergeykostiv/Desktop/Example004/Rekursia/bin/Debug/net6.0/Rekursia.dll
+/Users/sergeykostiv/Desktop/Example004/Rekursia/bin/Debug/net6.0/Rekursia.pdb
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.csproj.AssemblyReference.cache
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.AssemblyInfoInputs.cache
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.AssemblyInfo.cs
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.csproj.CoreCompileInputs.cache
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.dll
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/refint/Rekursia.dll
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.pdb
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/Rekursia.genruntimeconfig.cache
+/Users/sergeykostiv/Desktop/Example004/Rekursia/obj/Debug/net6.0/ref/Rekursia.dll
